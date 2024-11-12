@@ -3,10 +3,9 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <h2>2nd year Computer science student at Indian Institute of Information Technology , Bhagalpur</h2>
 
-<!--
-<p align="left"> <img src="" alt="akashsharma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20views&color=0e75b6&style=flat" alt="mdirfanraj" /> </p>
 <br/>
--->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=akash205sharma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
